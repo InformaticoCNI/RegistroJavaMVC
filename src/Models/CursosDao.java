@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Eliseo
+ * @author Usuario
  */
 public class CursosDao {
     Conexion cn= new Conexion();
