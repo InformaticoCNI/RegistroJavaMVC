@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Eliseo
+ * @author Usuario
  */
 public class LoginControllers implements  ActionListener{
     private Usuarios us ;
